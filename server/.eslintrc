@@ -1,0 +1,13 @@
+{
+  "extends": ["airbnb-base", "airbnb-typescript/base"],
+  "globals": {
+    "fastify": true
+  },
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "import/prefer-default-export": 0,
+    "max-len": "off"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules
+dist
+.idea
+docker
+readme-images
+scripts
+coverage-unit
+coverage-integration
+dotenv-local.js
